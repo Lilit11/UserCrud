@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "549150",
+      "name": "Anna",
+      "position": "PO",
+      "age": "34"
+    },
+    {
+      "id": "733824",
+      "name": "Davit",
+      "position": "CTO",
+      "age": "28"
+    }
+  ]
+}
